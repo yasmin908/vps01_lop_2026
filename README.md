@@ -17,8 +17,8 @@ Arquivos gerados durante a avaliação de lógica de programação, algoritmos e
 - 3 Pressione F11 para compilar executar
 
   ## Exemplo de código
-  ```c
-  #include<stdio.h>
+```c
+#include<stdio.h>
 #include<windows.h>
 void main(){
 	SetConsoleOutputCP(CP_UTF8);
